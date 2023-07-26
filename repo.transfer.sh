@@ -25,7 +25,7 @@ Options:
   -x 'TOKEN'                            GitLab user token.
   -a 'https://gitlab.com'               GitLab API URL.
   -n 'NSID'                             NEW namespace ID for repository.
-  -r 'REPO_1;REPO_2;REPO_3'             Repository name array.
+  -r 'REPO_1;REPO_2;REPO_3'             Repository name (array).
 EOF
 
 # -------------------------------------------------------------------------------------------------------------------- #
